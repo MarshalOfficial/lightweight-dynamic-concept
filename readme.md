@@ -15,7 +15,7 @@ Every list-view that shows data by rows, we call it report here, and will have m
 
 ## Actions
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+Every form that show some input on it and have button to submit a request, we call it an action here.
 
 ## Rename a file
 
@@ -144,7 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU2NTYzMzksLTE3NTU5MTYyMjIsLT
-IwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1
-NTM2M119
+eyJoaXN0b3J5IjpbMzYzODM5ODIyLC0xNzU1OTE2MjIyLC0yMD
+I0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEyLC0zMzI0NTUz
+NjNdfQ==
 -->
