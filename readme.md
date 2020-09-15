@@ -19,7 +19,7 @@ Every form that show some input on it and have button to submit a request, we ca
 
 ## Menu
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+A hirarchy base menu
 
 ## Delete a file
 
@@ -144,7 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mzk1OTUyNiwtMTc1NTkxNjIyMiwtMj
-AyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1
-MzYzXX0=
+eyJoaXN0b3J5IjpbMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NT
+kxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDEx
+MiwtMzMyNDU1MzYzXX0=
 -->
