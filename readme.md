@@ -264,15 +264,15 @@ DATA TYPES : and also there is a data type mapping between database and front-en
 }
 ```
 Policies:
-1- InRowActions must pass current row of list view data to the action that user clicked via Data parameter of actions.
+1: InRowActions must pass current row of list view data to the action that user clicked via Data parameter of actions.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NjE4ODAsOTYwOTI2NTcsOTkzNzMyMz
-AwLDk0NTY5MzE4MywtMTg0NzMxNjEwOCwtMTkzOTkzOTMyLDY0
-NTE3OTI1MywxODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MD
-k0NiwxNTQ0OTE1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwtMzgz
-OTU5NTI2LC0xNzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0Nz
-YyNjUsMzE1NDIwMTEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzE0MzYzNDEsOTYwOTI2NTcsOTkzNz
+MyMzAwLDk0NTY5MzE4MywtMTg0NzMxNjEwOCwtMTkzOTkzOTMy
+LDY0NTE3OTI1MywxODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMz
+c1MDk0NiwxNTQ0OTE1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwt
+MzgzOTU5NTI2LC0xNzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExOD
+U0NzYyNjUsMzE1NDIwMTEyLC0zMzI0NTUzNjNdfQ==
 -->
