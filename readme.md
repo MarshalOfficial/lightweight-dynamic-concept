@@ -110,11 +110,13 @@ and also there is a data type mapping between database and front-end:
 |back-end data type|front-end data type                         |
 |----------------|-------------------------------|-----------------------------|
 |varchar|string|
+|int/bigint|number|
+|date|date|
 |bit|bool|
 |date|date|
 |datetime|datetime|
-|bit|select|
-|bit|bool|
+|automatically prepare in data-source via back-end|select|
+|will prepare via back-end calling with proc name|drop down|
 
 ## Report
 
@@ -193,9 +195,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODI5Njc4NSw2NDUxNzkyNTMsMTg3ND
-kwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5NDYsMTU0NDkxNTIz
-Miw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NT
-kxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDEx
-MiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE1MzEyNTQ1ODksNjQ1MTc5MjUzLDE4Nz
+Q5MDg2ODYsLTE0MTY3MDYzMzYsNzAzNzUwOTQ2LDE1NDQ5MTUy
+MzIsNDMzMzUzNzA1LDMzMjI4NzIwLC0zODM5NTk1MjYsLTE3NT
+U5MTYyMjIsLTIwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMTU0MjAx
+MTIsLTMzMjQ1NTM2M119
 -->
