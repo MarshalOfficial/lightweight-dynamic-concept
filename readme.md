@@ -35,7 +35,61 @@ There is no matter you use which language, framework and stack for you'r databas
 ## Menu
 
 ## Action
-
+for example an action metadata for update a user will be like below
+```json
+{
+   "parameters":[
+      {
+         "ID":"FirstName",
+         "DataType":"string",
+         "Title":"Localizationed",
+         "Row":"1",
+         "Col":"1"
+      },
+      {
+         "ID":"LastName",
+         "DataType":"string",
+         "Title":"Localizationed",
+         "Row":"1",
+         "Col":"2"
+      },
+      {
+         "ID":"BirthDate",
+         "DataType":"date",
+         "Title":"Localizationed",
+         "Row":"2",
+         "Col":"1"
+      },
+      {
+         "ID":"IsActive",
+         "DataType":"bool",
+         "Title":"Localizationed",
+         "Row":"2",
+         "Col":"2"
+      },
+      {
+         "ID":"Gender",
+         "DataType":"select",
+         "Title":"Localizationed",
+         "Row":"3",
+         "Col":"1"
+      },
+      {
+         "ID":"BloodGroup",
+         "DataType":"dropdown",
+         "Title":"Localizationed",
+         "Row":"3",
+         "Col":"2"
+      }
+   ],
+   "buttons":[
+      {
+         "Title":"Localizationed",
+         "ProcedureName":"UserUpdate"
+      }
+   ]
+}
+```
 ## Report
 
 ## Publish a File
@@ -113,8 +167,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDkwODY4NiwtMTQxNjcwNjMzNiw3MD
-M3NTA5NDYsMTU0NDkxNTIzMiw0MzMzNTM3MDUsMzMyMjg3MjAs
-LTM4Mzk1OTUyNiwtMTc1NTkxNjIyMiwtMjAyNDM3NjQ0MiwxMT
-g1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMjA5NDMwMzA0NCwxODc0OTA4Njg2LC0xND
+E2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OTE1MjMyLDQzMzM1Mzcw
+NSwzMzIyODcyMCwtMzgzOTU5NTI2LC0xNzU1OTE2MjIyLC0yMD
+I0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEyLC0zMzI0NTUz
+NjNdfQ==
 -->
