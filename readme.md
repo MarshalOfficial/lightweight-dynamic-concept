@@ -149,7 +149,120 @@ DATA TYPES : and also there is a data type mapping between database and front-en
 |will prepare via back-end calling with proc name|drop down|
 
 ## Report Metadata
-``
+```json
+{
+   "properties":{
+      "LoadOnOpen":"true",
+      "ProcName":"UsersGet"
+   },
+   "filters":[
+      {
+         "ID":"FirstName",
+         "Title":"LocalizedString",
+         "DataType":"string",
+         "defaultValue":"",
+         "index":"0"
+      },
+      {
+         "ID":"LastName",
+         "Title":"LocalizedString",
+         "DataType":"string",
+         "defaultValue":"",
+         "index":"1"
+      },
+      {
+         "ID":"Gender",
+         "Title":"LocalizedString",
+         "DataType":"select",
+         "defaultValue":"",
+         "index":"2",
+         "DataSource":[
+            {
+               "ID":"1",
+               "Title":"Male"
+            },
+            {
+               "ID":"2",
+               "Title":"Female"
+            },
+            {
+               "ID":"3",
+               "Title":"Bisexual"
+            }
+         ]
+      }
+   ],
+   "columns":[
+      {
+         "ID":"FirstName",
+         "DataType":"string",
+         "Title":"Localizationed",
+         "index":"0"
+      },
+      {
+         "ID":"LastName",
+         "DataType":"string",
+         "Title":"Localizationed",
+         "index":"1"
+      },
+      {
+         "ID":"BirthDate",
+         "DataType":"date",
+         "Title":"Localizationed",
+         "index":"2"
+      },
+      {
+         "ID":"IsActive",
+         "DataType":"bool",
+         "Title":"Localizationed",
+         "index":"3"
+      },
+      {
+         "ID":"Gender",
+         "DataType":"select",
+         "Title":"Localizationed",
+         "index":"4"
+      },
+      {
+         "ID":"BloodGroup",
+         "DataType":"dropdown",
+         "Title":"Localizationed",
+         "index":"5"
+      },
+      {
+         "ID":"CreateUserName",
+         "DataType":"string",
+         "Title":"Localizationed",
+         "index":"6"
+      },
+      {
+         "ID":"CreateDateFa",
+         "DataType":"string",
+         "Title":"Localizationed",
+         "index":"7"
+      }
+   ],
+   "HeaderActions":[
+      {
+         "ID":"AddUser",
+         "Title":"LocalizedString",
+         "Meta":"contains a json of the action metadata"
+      }
+   ],
+   "InRowActions":[
+      {
+         "ID":"EditUser",
+         "Title":"LocalizedString",
+         "Meta":"contains a json of the action metadata"
+      },
+      {
+         "ID":"DeleteUser",
+         "Title":"LocalizedString",
+         "Meta":"contains a json of the action metadata"
+      }
+   ]
+}
+```
 ## Publish a File
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
@@ -225,10 +338,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTExMzQ2NDQsOTkzNzMyMzAwLDk0NT
-Y5MzE4MywtMTg0NzMxNjEwOCwtMTkzOTkzOTMyLDY0NTE3OTI1
-MywxODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0NiwxNT
-Q0OTE1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2
-LC0xNzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMz
-E1NDIwMTEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbOTYwOTI2NTcsOTkzNzMyMzAwLDk0NTY5Mz
+E4MywtMTg0NzMxNjEwOCwtMTkzOTkzOTMyLDY0NTE3OTI1Mywx
+ODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OT
+E1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2LC0x
+NzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMzE1ND
+IwMTEyLC0zMzI0NTUzNjNdfQ==
 -->
