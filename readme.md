@@ -30,11 +30,8 @@ The core data information about objects, we name it metadata or meta. Each objec
 
 The Back-end will response to front-end some metadata that consist of menus, front-end will populate and hold menus metadata, then shown the menus to the user, each menu will be for an object of an action or report, when user click on an action menu, front-end will dynamically generate a form with inputs and button that metadata said for this action, or when user click on a report menu, front-end dynamically generate report page in row and column base list-view with some optional filter in header of the page.
 With this platform we can do most of functional software needs dynamically and the front-end code will be with the least changes and with back-end we will generate multiple forms and report that users need.
-There is no matter you use which language, framework and stack for you'r database, back-end rest API and front-end, for me these days i am using MS SQL server database engine, python fastapi framework for the rest api and angular or react for the front.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+There is no matter you use which language, framework and stack for you'r database, back-end rest API and front-end, for me these days i am using MS SQL server database engine, python FastAPI framework for the rest API and angular or react for the front.
+	> We will explain about each object metadata in below:
 
 ## Open a file
 
@@ -138,8 +135,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NDU5NDM3LDcwMzc1MDk0NiwxNTQ0OT
-E1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2LC0x
-NzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMzE1ND
-IwMTEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTY3MDYzMzYsNzAzNzUwOTQ2LDE1ND
+Q5MTUyMzIsNDMzMzUzNzA1LDMzMjI4NzIwLC0zODM5NTk1MjYs
+LTE3NTU5MTYyMjIsLTIwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMT
+U0MjAxMTIsLTMzMjQ1NTM2M119
 -->
