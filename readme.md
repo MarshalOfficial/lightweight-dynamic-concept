@@ -8,11 +8,12 @@ In this concept we will use a **Dynamic** mechanism to create and rendering full
 They are multiple basic object that we use to processing user interface elements and behavior of the forms.
 
 
-## Create files and folders
+## Reports
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Every listview that shows data by rows, we call it report in out 
 
-## Switch to another file
+
+## Actions
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
@@ -143,6 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU5MTYyMjIsLTIwMjQzNzY0NDIsMT
-E4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTY5ODI5MTQ3MywtMTc1NTkxNjIyMiwtMj
+AyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1
+MzYzXX0=
 -->
