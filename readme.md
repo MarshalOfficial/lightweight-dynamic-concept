@@ -109,9 +109,12 @@ If there was any input data passed to an action via json and there was any prope
 and also there is a data type mapping between database and front-end:
 |back-end data type|front-end data type                         |
 |----------------|-------------------------------|-----------------------------|
-|varchar|string|'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|varchar|string|
+|bit|bool|
+|date|date|
+|datetime|datetime|
+|bit|select|
+|bit|bool|
 
 ## Report
 
@@ -190,7 +193,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDY3NjExNiw2NDUxNzkyNTMsMTg3ND
+eyJoaXN0b3J5IjpbLTgyODI5Njc4NSw2NDUxNzkyNTMsMTg3ND
 kwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5NDYsMTU0NDkxNTIz
 Miw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NT
 kxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDEx
