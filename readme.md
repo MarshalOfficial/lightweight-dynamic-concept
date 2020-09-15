@@ -5,7 +5,7 @@ In this concept we will use a **Dynamic** mechanism to create and rendering full
 
 # Basic Objects
 
-They are multiple basic object that we use to processing user interface elements and behaviour of the forms
+They are multiple basic object that we use to processing user interface elements and behavior of the forms.
 
 
 ## Create files and folders
@@ -143,6 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDg5Njk0NywtMjAyNDM3NjQ0MiwxMT
-g1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE3NTU5MTYyMjIsLTIwMjQzNzY0NDIsMT
+E4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1NTM2M119
 -->
