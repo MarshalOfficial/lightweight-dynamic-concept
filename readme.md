@@ -22,7 +22,7 @@ Every form that show some input on it and have button to submit a request, we ca
 A hierarchic tree base menu that will shown as admin panel, which item of menu will be used for a report or an action.
 
 ## Metadata
-The core data information about which object, we name it metadata or meta. Each object has its own meta information, for example a menu item meta information will show title, type and etc, an action meta information will show what are input parameters of action and what and how many submit bi
+The core data information about objects, we name it metadata or meta. Each object has its own meta information, for example a menu item meta information will show title, type and etc, an action meta information will show what are input parameters of action and what and how many submit button does it need. don't confuse we will explain more and detail about it later in below.
 
 
 ## Export a file
@@ -144,7 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY5Mjk4Miw0MzMzNTM3MDUsMzMyMj
+eyJoaXN0b3J5IjpbMTU0NDkxNTIzMiw0MzMzNTM3MDUsMzMyMj
 g3MjAsLTM4Mzk1OTUyNiwtMTc1NTkxNjIyMiwtMjAyNDM3NjQ0
 MiwxMTg1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
 -->
