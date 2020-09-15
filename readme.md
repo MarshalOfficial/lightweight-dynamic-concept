@@ -19,10 +19,9 @@ Every form that show some input on it and have button to submit a request, we ca
 
 ## Menu
 
-A hirarchy base menu
+A hierarchic tree base menu that will shown as admin panel, which item of menu will be used for a report or an action.
 
-## Delete a file
-
+## Metadata
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
 ## Export a file
@@ -144,7 +143,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NT
-kxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDEx
-MiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTkyMjQ5MjUxOCwzMzIyODcyMCwtMzgzOT
+U5NTI2LC0xNzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYy
+NjUsMzE1NDIwMTEyLC0zMzI0NTUzNjNdfQ==
 -->
