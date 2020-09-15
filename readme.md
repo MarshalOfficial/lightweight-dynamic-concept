@@ -10,7 +10,7 @@ They are multiple basic object that we use to processing user interface elements
 
 ## Reports
 
-Every listview that shows data by rows, we call it report in out 
+Every list-view that shows data by rows, we call it report here, and will have multiple columns with some properties that will say below.
 
 
 ## Actions
@@ -144,7 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODI5MTQ3MywtMTc1NTkxNjIyMiwtMj
-AyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1
-MzYzXX0=
+eyJoaXN0b3J5IjpbLTEyNDU2NTYzMzksLTE3NTU5MTYyMjIsLT
+IwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1
+NTM2M119
 -->
