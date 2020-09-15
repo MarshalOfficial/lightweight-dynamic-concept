@@ -1,4 +1,4 @@
-# Light Dynamic Concept!
+# Lightweight  Dynamic Concept!
 
 In this concept we will use a **Dynamic** mechanism to create and rendering fully functional web or mobile apps. It will be hard at first to create database, API and front-end infrastructure, and then be easy to maintain and develop your product with less coding.
 
