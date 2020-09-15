@@ -17,7 +17,7 @@ Every list-view that shows data by rows, we call it report here, and will have m
 
 Every form that show some input on it and have button to submit a request, we call it an action here.
 
-## Rename a file
+## Menu
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
@@ -144,7 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzODM5ODIyLC0xNzU1OTE2MjIyLC0yMD
-I0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEyLC0zMzI0NTUz
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTM4Mzk1OTUyNiwtMTc1NTkxNjIyMiwtMj
+AyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1
+MzYzXX0=
 -->
