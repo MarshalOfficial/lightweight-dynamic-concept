@@ -1,1 +1,0 @@
-# mini_dynamic_concept
