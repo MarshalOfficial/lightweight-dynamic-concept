@@ -105,13 +105,13 @@ For example an action metadata for update a user will be like below, it says to 
    ]
 }
 ```
-If there was any input data passed to an action via json and there was any property with same name of action parameters inside the action, the front-end must bind the values to pair input. 
-and also there is a data type mapping between database and front-end:
-|back-end data type|front-end data type                         |
+DATA BINDING: If there was any input data passed to an action via json and there was any property with same name of action parameters inside the action, the front-end must bind the values to pair input. 
+DATA TYPES : and also there is a data type mapping between database and front-end:
+|db & back-end data type|front-end data type                         |
 |----------------|-------------------------------|-----------------------------|
 |varchar|string|
 |int/bigint|number|
-|date|date|
+|decimal|decimal|
 |bit|bool|
 |date|date|
 |datetime|datetime|
@@ -195,9 +195,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEyNTQ1ODksNjQ1MTc5MjUzLDE4Nz
-Q5MDg2ODYsLTE0MTY3MDYzMzYsNzAzNzUwOTQ2LDE1NDQ5MTUy
-MzIsNDMzMzUzNzA1LDMzMjI4NzIwLC0zODM5NTk1MjYsLTE3NT
-U5MTYyMjIsLTIwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMTU0MjAx
-MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMjk3OTY5ODkzLDY0NTE3OTI1MywxODc0OT
+A4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OTE1MjMy
+LDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2LC0xNzU1OT
+E2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEy
+LC0zMzI0NTUzNjNdfQ==
 -->
