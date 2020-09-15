@@ -73,14 +73,15 @@ For example an action metadata for update a user will be like below, it says to 
          "Title":"Localizationed",
          "Row":"3",
          "Col":"1",
-         "DataSource":["1":"Male","2":"Female","3":""]
+         "DataSource":["1":"Male","2":"Female","3":"Bisexual"]
       },
       {
          "ID":"BloodGroup",
          "DataType":"dropdown",
          "Title":"Localizationed",
          "Row":"3",
-         "Col":"2"
+         "Col":"2",
+         "DataSourceProcedure":"BloodGroupGet"      
       }
    ],
    "buttons":[
@@ -168,9 +169,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg4MTM3ODUsMTg3NDkwODY4NiwtMT
-QxNjcwNjMzNiw3MDM3NTA5NDYsMTU0NDkxNTIzMiw0MzMzNTM3
-MDUsMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NTkxNjIyMiwtMj
-AyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1
-MzYzXX0=
+eyJoaXN0b3J5IjpbNjQ1MTc5MjUzLDE4NzQ5MDg2ODYsLTE0MT
+Y3MDYzMzYsNzAzNzUwOTQ2LDE1NDQ5MTUyMzIsNDMzMzUzNzA1
+LDMzMjI4NzIwLC0zODM5NTk1MjYsLTE3NTU5MTYyMjIsLTIwMj
+QzNzY0NDIsMTE4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1NTM2
+M119
 -->
