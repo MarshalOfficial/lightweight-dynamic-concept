@@ -28,7 +28,7 @@ The core data information about objects, we name it metadata or meta. Each objec
 
 # Scenario
 
-The Back-end will response to front-end some metadata that consist of menus, front-end will populate and hold menus metadata, then shown the menus to the user, each menu will be for an object of an action or report, when user click on an action menu, front-end will dynamically generate a form with inputs and button that metadata said for this action, or when
+The Back-end will response to front-end some metadata that consist of menus, front-end will populate and hold menus metadata, then shown the menus to the user, each menu will be for an object of an action or report, when user click on an action menu, front-end will dynamically generate a form with inputs and button that metadata said for this action, or when user click on a report menu, front-end dynamically generate report page in row and column base 
 There are two types of synchronization and they can complement each other:
 
 - The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
@@ -139,7 +139,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkyMzIwNDUsNzAzNzUwOTQ2LDE1ND
+eyJoaXN0b3J5IjpbLTIxMjQ5NjYyODgsNzAzNzUwOTQ2LDE1ND
 Q5MTUyMzIsNDMzMzUzNzA1LDMzMjI4NzIwLC0zODM5NTk1MjYs
 LTE3NTU5MTYyMjIsLTIwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMT
 U0MjAxMTIsLTMzMjQ1NTM2M119
