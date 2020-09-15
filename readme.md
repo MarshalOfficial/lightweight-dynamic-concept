@@ -105,7 +105,9 @@ For example an action metadata for update a user will be like below, it says to 
    ]
 }
 ```
-If there was any input data passed to an action via json and there was any property with same name of action parameters in
+If there was any input data passed to an action via json and there was any property with same name of action parameters inside the action, the front-end must bind the values to pair input. 
+and also there is a data type mapping between database and front-end:
+
 ## Report
 
 ## Publish a File
@@ -183,9 +185,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjEyNDgzMjIsNjQ1MTc5MjUzLDE4Nz
-Q5MDg2ODYsLTE0MTY3MDYzMzYsNzAzNzUwOTQ2LDE1NDQ5MTUy
-MzIsNDMzMzUzNzA1LDMzMjI4NzIwLC0zODM5NTk1MjYsLTE3NT
-U5MTYyMjIsLTIwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMTU0MjAx
-MTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTM3OTg1Mzg5NCw2NDUxNzkyNTMsMTg3ND
+kwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5NDYsMTU0NDkxNTIz
+Miw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NT
+kxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDEx
+MiwtMzMyNDU1MzYzXX0=
 -->
