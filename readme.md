@@ -42,21 +42,24 @@ A simple menu metadata shown below that we have two nodes in root of menu and on
          "Key":"btnUsers",
          "Title":"LocalizedString",
          "Type":"Report",
-         "ParentID":"null"
+         "ParentID":"null",
+         "Meta":"Cotains a Json for a Report Metadata that front will generate it when user click"
       },
       {
          "ID":"2",
          "Key":"btnAddUser",
          "Title":"LocalizedString",
          "Type":"Action",
-         "ParentID":"1"
+         "ParentID":"1",
+         "Meta":"Cotains a Json for an action Metadata that front will generate it when user click"
       },
       {
          "ID":"3",
          "Key":"btnSaleReport",
          "Title":"LocalizedString",
          "Type":"Report",
-         "ParentID":"null"
+         "ParentID":"null",
+         "Meta":"Cotains a Json for a Report Metadata that front will generate it when user click"
       }
    ]
 }
@@ -222,9 +225,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDczMTYxMDgsLTE5Mzk5MzkzMiw2ND
-UxNzkyNTMsMTg3NDkwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5
-NDYsMTU0NDkxNTIzMiw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mz
-k1OTUyNiwtMTc1NTkxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2
-MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbOTQ1NjkzMTgzLC0xODQ3MzE2MTA4LC0xOT
+M5OTM5MzIsNjQ1MTc5MjUzLDE4NzQ5MDg2ODYsLTE0MTY3MDYz
+MzYsNzAzNzUwOTQ2LDE1NDQ5MTUyMzIsNDMzMzUzNzA1LDMzMj
+I4NzIwLC0zODM5NTk1MjYsLTE3NTU5MTYyMjIsLTIwMjQzNzY0
+NDIsMTE4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1NTM2M119
 -->
