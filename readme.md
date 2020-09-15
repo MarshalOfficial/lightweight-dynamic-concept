@@ -73,7 +73,20 @@ For example an action metadata for update a user will be like below, it says to 
          "Title":"Localizationed",
          "Row":"3",
          "Col":"1",
-         "DataSource":["1":"Male","2":"Female","3":"Bisexual"]
+         "DataSource":[
+            {
+               "ID":"1",
+               "Title":"Male"
+            },
+            {
+               "ID":"2",
+               "Title":"Female"
+            },
+            {
+               "ID":"3",
+               "Title":"Bisexual"
+            }
+         ]
       },
       {
          "ID":"BloodGroup",
@@ -81,7 +94,7 @@ For example an action metadata for update a user will be like below, it says to 
          "Title":"Localizationed",
          "Row":"3",
          "Col":"2",
-         "DataSourceProcedure":"BloodGroupGet"      
+         "DataSourceProcedure":"BloodGroupGet"
       }
    ],
    "buttons":[
@@ -90,8 +103,7 @@ For example an action metadata for update a user will be like below, it says to 
          "ProcedureName":"UserUpdate"
       }
    ]
-}
-```
+}```
 ## Report
 
 ## Publish a File
@@ -169,9 +181,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MTc5MjUzLDE4NzQ5MDg2ODYsLTE0MT
-Y3MDYzMzYsNzAzNzUwOTQ2LDE1NDQ5MTUyMzIsNDMzMzUzNzA1
-LDMzMjI4NzIwLC0zODM5NTk1MjYsLTE3NTU5MTYyMjIsLTIwMj
-QzNzY0NDIsMTE4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1NTM2
-M119
+eyJoaXN0b3J5IjpbOTc0MTM0NjkwLDY0NTE3OTI1MywxODc0OT
+A4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OTE1MjMy
+LDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2LC0xNzU1OT
+E2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEy
+LC0zMzI0NTUzNjNdfQ==
 -->
