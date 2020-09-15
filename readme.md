@@ -38,17 +38,6 @@ There is no matter you use which language, framework and stack for you'r databas
 
 ## Report
 
-## DataTypes
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
 ## Publish a File
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
@@ -124,7 +113,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTgyMjM5MiwtMTQxNjcwNjMzNiw3MD
+eyJoaXN0b3J5IjpbMTg3NDkwODY4NiwtMTQxNjcwNjMzNiw3MD
 M3NTA5NDYsMTU0NDkxNTIzMiw0MzMzNTM3MDUsMzMyMjg3MjAs
 LTM4Mzk1OTUyNiwtMTc1NTkxNjIyMiwtMjAyNDM3NjQ0MiwxMT
 g1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
