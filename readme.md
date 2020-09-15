@@ -1,6 +1,6 @@
 # Mini Dynamic Concept!
 
-In this concept we will use a **Dynamic** mechanism to create and rendering fully functional web or mobile apps. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+In this concept we will use a **Dynamic** mechanism to create and rendering fully functional web or mobile apps. It will be hard at first to create database, API and front-end infrastructure, and then be easy to maintain and develop your product. you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Files
@@ -142,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMj
-Q1NTM2M119
+eyJoaXN0b3J5IjpbMTIzNjE2NTc2LDExODU0NzYyNjUsMzE1ND
+IwMTEyLC0zMzI0NTUzNjNdfQ==
 -->
