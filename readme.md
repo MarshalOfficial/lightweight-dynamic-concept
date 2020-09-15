@@ -35,7 +35,7 @@ There is no matter you use which language, framework and stack for you'r databas
 ## Menu
 
 ## Action
-For example an action metadata for update a user will be like below, it says to front-end: we need a form with one submit button and 6 input, 2 string type input in first row, 
+For example an action metadata for update a user will be like below, it says to front-end: we need a form with one submit button and 6 input, 2 string type input in first row, one date and one checkbox in the second row and  last row will have a select and drop down input type.
 ```json
 {
    "parameters":[
@@ -72,7 +72,8 @@ For example an action metadata for update a user will be like below, it says to 
          "DataType":"select",
          "Title":"Localizationed",
          "Row":"3",
-         "Col":"1"
+         "Col":"1",
+         "DataSource":["1":"Male","2":"Female","3":""]
       },
       {
          "ID":"BloodGroup",
@@ -167,9 +168,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTEzNjg1MSwxODc0OTA4Njg2LC0xND
-E2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OTE1MjMyLDQzMzM1Mzcw
-NSwzMzIyODcyMCwtMzgzOTU5NTI2LC0xNzU1OTE2MjIyLC0yMD
-I0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEyLC0zMzI0NTUz
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzg4MTM3ODUsMTg3NDkwODY4NiwtMT
+QxNjcwNjMzNiw3MDM3NTA5NDYsMTU0NDkxNTIzMiw0MzMzNTM3
+MDUsMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NTkxNjIyMiwtMj
+AyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1
+MzYzXX0=
 -->
