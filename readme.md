@@ -263,6 +263,8 @@ DATA TYPES : and also there is a data type mapping between database and front-en
    ]
 }
 ```
+Policies:
+1- InRowActions must pass current row of list view data to the action that user clicked via Data parameter of actions.
 
 ## Publish a File
 
@@ -339,10 +341,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDI5OTU1Myw5NjA5MjY1Nyw5OTM3Mz
-IzMDAsOTQ1NjkzMTgzLC0xODQ3MzE2MTA4LC0xOTM5OTM5MzIs
-NjQ1MTc5MjUzLDE4NzQ5MDg2ODYsLTE0MTY3MDYzMzYsNzAzNz
-UwOTQ2LDE1NDQ5MTUyMzIsNDMzMzUzNzA1LDMzMjI4NzIwLC0z
-ODM5NTk1MjYsLTE3NTU5MTYyMjIsLTIwMjQzNzY0NDIsMTE4NT
-Q3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTIwNTExODIzNjAsOTYwOTI2NTcsOTkzNz
+MyMzAwLDk0NTY5MzE4MywtMTg0NzMxNjEwOCwtMTkzOTkzOTMy
+LDY0NTE3OTI1MywxODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMz
+c1MDk0NiwxNTQ0OTE1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwt
+MzgzOTU5NTI2LC0xNzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExOD
+U0NzYyNjUsMzE1NDIwMTEyLC0zMzI0NTUzNjNdfQ==
 -->
