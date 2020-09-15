@@ -115,7 +115,7 @@ DATA TYPES : and also there is a data type mapping between database and front-en
 |bit|bool|
 |date|date|
 |datetime|datetime|
-|automatically prepare in data-source via back-end|select|
+|automatically prepare in data-source via json from back-end|select|
 |will prepare via back-end calling with proc name|drop down|
 
 ## Report
@@ -195,7 +195,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjQ1MzYyMiw2NDUxNzkyNTMsMTg3ND
+eyJoaXN0b3J5IjpbLTE5Mzk5MzkzMiw2NDUxNzkyNTMsMTg3ND
 kwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5NDYsMTU0NDkxNTIz
 Miw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NT
 kxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDEx
