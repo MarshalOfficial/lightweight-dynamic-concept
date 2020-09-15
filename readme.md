@@ -1,9 +1,9 @@
 # Mini Dynamic Concept!
 
-In this concept we will use a **Dynamic** mechanism to create and rendering fully functional web or mobile apps. It will be hard at first to create database, API and front-end infrastructure, and then be easy to maintain and develop your product. you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+In this concept we will use a **Dynamic** mechanism to create and rendering fully functional web or mobile apps. It will be hard at first to create database, API and front-end infrastructure, and then be easy to maintain and develop your product with less coding.
 
 
-# Files
+# Main Objects
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -142,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjE2NTc2LDExODU0NzYyNjUsMzE1ND
-IwMTEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMT
+U0MjAxMTIsLTMzMjQ1NTM2M119
 -->
