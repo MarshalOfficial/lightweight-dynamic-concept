@@ -107,7 +107,7 @@ For example an action metadata for update a user will be like below, it says to 
 ```
 DATA BINDING: If there was any input data passed to an action via json and there was any property with same name of action parameters inside the action, the front-end must bind the values to pair input. 
 DATA TYPES : and also there is a data type mapping between database and front-end:
-|db & back-end data type|front-end data type                         |
+|db & back-end|front-end                          |
 |----------------|-------------------------------|-----------------------------|
 |varchar|string|
 |int/bigint|number|
@@ -195,7 +195,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3OTY5ODkzLDY0NTE3OTI1MywxODc0OT
+eyJoaXN0b3J5IjpbMzIyMjU2OTMzLDY0NTE3OTI1MywxODc0OT
 A4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OTE1MjMy
 LDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2LC0xNzU1OT
 E2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEy
