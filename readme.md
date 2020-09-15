@@ -33,7 +33,7 @@ With this platform we can do most of functional software needs dynamically and t
 There is no matter you use which language, framework and stack for you'r database, back-end rest API and front-end, for me these days i am using MS SQL server database engine, python FastAPI framework for the rest API and angular or react for the front.
 	
 ## Menu
-
+```jso
 ## Action
 For example an action metadata for update a user will be like below, it says to front-end: we need a form with one submit button and 6 input, 2 string type input in first row, one date and one checkbox in the second row and  last row will have a select and drop down input type.
 ```json
@@ -195,9 +195,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk5MzkzMiw2NDUxNzkyNTMsMTg3ND
-kwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5NDYsMTU0NDkxNTIz
-Miw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mzk1OTUyNiwtMTc1NT
-kxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNTQyMDEx
-MiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE1ODgzNzc4NDIsLTE5Mzk5MzkzMiw2ND
+UxNzkyNTMsMTg3NDkwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5
+NDYsMTU0NDkxNTIzMiw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mz
+k1OTUyNiwtMTc1NTkxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2
+MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
 -->
