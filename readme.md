@@ -3,9 +3,10 @@
 In this concept we will use a **Dynamic** mechanism to create and rendering fully functional web or mobile apps. It will be hard at first to create database, API and front-end infrastructure, and then be easy to maintain and develop your product with less coding.
 
 
-# Main Objects
+# Basic Objects
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+They are multiple basic object that we use to processing user interface elements and behaviour of the forms
+
 
 ## Create files and folders
 
@@ -142,6 +143,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMT
-U0MjAxMTIsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTg2NDg5Njk0NywtMjAyNDM3NjQ0MiwxMT
+g1NDc2MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
 -->
