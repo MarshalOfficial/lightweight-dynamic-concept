@@ -25,15 +25,10 @@ A hierarchic tree base menu that will shown as admin panel, which item of menu w
 The core data information about objects, we name it metadata or meta. Each object has its own meta information, for example a menu item meta information will show title, type and etc, an action meta information will show what are input parameters of action and what and how many submit button does it need. don't worry we will explain more and detail about it later in below.
 
 
-## Export a file
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+# Scenario
 
-
-# Synchronization
-
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
-
+The Back-end will response to front-end some metadata that consist of menus, front-end will populate and shown the menus and 
 There are two types of synchronization and they can complement each other:
 
 - The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
@@ -144,8 +139,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNzUwOTQ2LDE1NDQ5MTUyMzIsNDMzMz
-UzNzA1LDMzMjI4NzIwLC0zODM5NTk1MjYsLTE3NTU5MTYyMjIs
-LTIwMjQzNzY0NDIsMTE4NTQ3NjI2NSwzMTU0MjAxMTIsLTMzMj
-Q1NTM2M119
+eyJoaXN0b3J5IjpbLTkwMzg5NjQ3Miw3MDM3NTA5NDYsMTU0ND
+kxNTIzMiw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mzk1OTUyNiwt
+MTc1NTkxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2MjY1LDMxNT
+QyMDExMiwtMzMyNDU1MzYzXX0=
 -->
