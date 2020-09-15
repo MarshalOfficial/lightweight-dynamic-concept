@@ -33,7 +33,7 @@ With this platform we can do most of functional software needs dynamically and t
 There is no matter you use which language, framework and stack for you'r database, back-end rest API and front-end, for me these days i am using MS SQL server database engine, python FastAPI framework for the rest API and angular or react for the front.
 	
 ## Menu
-A simple menu metadata shown below that we have two nodes in root of menu and one child for first element, as we mentioned 
+A simple menu metadata shown below that we have two nodes in root of menu and one child for first element, as we mentioned before each menu element must be action or report and in data property back-end populated each item metadata for front-end, so front know if element 2 clicked it must generate an action form for adding a new user.
 ```json
 {
    "Menu":[
@@ -222,9 +222,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODQyMTk3MywtMTkzOTkzOTMyLDY0NT
-E3OTI1MywxODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0
-NiwxNTQ0OTE1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOT
-U5NTI2LC0xNzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYy
-NjUsMzE1NDIwMTEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDczMTYxMDgsLTE5Mzk5MzkzMiw2ND
+UxNzkyNTMsMTg3NDkwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5
+NDYsMTU0NDkxNTIzMiw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mz
+k1OTUyNiwtMTc1NTkxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2
+MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
 -->
