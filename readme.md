@@ -35,7 +35,7 @@ There is no matter you use which language, framework and stack for you'r databas
 ## Menu
 
 ## Action
-for example an action metadata for update a user will be like below
+For example an action metadata for update a user will be like below, it says to front-end: we need a form with one submit button and 6 input, 2 string type input in first row, 
 ```json
 {
    "parameters":[
@@ -167,7 +167,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDMwMzA0NCwxODc0OTA4Njg2LC0xND
+eyJoaXN0b3J5IjpbLTQ5NTEzNjg1MSwxODc0OTA4Njg2LC0xND
 E2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OTE1MjMyLDQzMzM1Mzcw
 NSwzMzIyODcyMCwtMzgzOTU5NTI2LC0xNzU1OTE2MjIyLC0yMD
 I0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEyLC0zMzI0NTUz
