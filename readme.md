@@ -1,4 +1,4 @@
-# Mini Dynamic Concept!
+# Light Dynamic Concept!
 
 In this concept we will use a **Dynamic** mechanism to create and rendering fully functional web or mobile apps. It will be hard at first to create database, API and front-end infrastructure, and then be easy to maintain and develop your product with less coding.
 
@@ -144,7 +144,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyMzUyNzU0LDMzMjI4NzIwLC0zODM5NT
+eyJoaXN0b3J5IjpbNDMzMzUzNzA1LDMzMjI4NzIwLC0zODM5NT
 k1MjYsLTE3NTU5MTYyMjIsLTIwMjQzNzY0NDIsMTE4NTQ3NjI2
 NSwzMTU0MjAxMTIsLTMzMjQ1NTM2M119
 -->
