@@ -149,7 +149,7 @@ DATA TYPES : and also there is a data type mapping between database and front-en
 |will prepare via back-end calling with proc name|drop down|
 
 ## Report Metadata
-
+``
 ## Publish a File
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
@@ -225,10 +225,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNzMyMzAwLDk0NTY5MzE4MywtMTg0Nz
-MxNjEwOCwtMTkzOTkzOTMyLDY0NTE3OTI1MywxODc0OTA4Njg2
-LC0xNDE2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OTE1MjMyLDQzMz
-M1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2LC0xNzU1OTE2MjIy
-LC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMzE1NDIwMTEyLC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMTExMzQ2NDQsOTkzNzMyMzAwLDk0NT
+Y5MzE4MywtMTg0NzMxNjEwOCwtMTkzOTkzOTMyLDY0NTE3OTI1
+MywxODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0NiwxNT
+Q0OTE1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2
+LC0xNzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMz
+E1NDIwMTEyLC0zMzI0NTUzNjNdfQ==
 -->
