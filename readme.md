@@ -263,6 +263,7 @@ DATA TYPES : and also there is a data type mapping between database and front-en
    ]
 }
 ```
+
 ## Publish a File
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
@@ -338,10 +339,10 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwOTI2NTcsOTkzNzMyMzAwLDk0NTY5Mz
-E4MywtMTg0NzMxNjEwOCwtMTkzOTkzOTMyLDY0NTE3OTI1Mywx
-ODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0NiwxNTQ0OT
-E1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOTU5NTI2LC0x
-NzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYyNjUsMzE1ND
-IwMTEyLC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTQwMDI5OTU1Myw5NjA5MjY1Nyw5OTM3Mz
+IzMDAsOTQ1NjkzMTgzLC0xODQ3MzE2MTA4LC0xOTM5OTM5MzIs
+NjQ1MTc5MjUzLDE4NzQ5MDg2ODYsLTE0MTY3MDYzMzYsNzAzNz
+UwOTQ2LDE1NDQ5MTUyMzIsNDMzMzUzNzA1LDMzMjI4NzIwLC0z
+ODM5NTk1MjYsLTE3NTU5MTYyMjIsLTIwMjQzNzY0NDIsMTE4NT
+Q3NjI2NSwzMTU0MjAxMTIsLTMzMjQ1NTM2M119
 -->
