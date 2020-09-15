@@ -33,7 +33,34 @@ With this platform we can do most of functional software needs dynamically and t
 There is no matter you use which language, framework and stack for you'r database, back-end rest API and front-end, for me these days i am using MS SQL server database engine, python FastAPI framework for the rest API and angular or react for the front.
 	
 ## Menu
-```jso
+A simple menu metadata shown below that we have two nodes in root of menu and one child for first element, as we mentioned 
+```json
+{
+   "Menu":[
+      {
+         "ID":"1",
+         "Key":"btnUsers",
+         "Title":"LocalizedString",
+         "Type":"Report",
+         "ParentID":"null"
+      },
+      {
+         "ID":"2",
+         "Key":"btnAddUser",
+         "Title":"LocalizedString",
+         "Type":"Action",
+         "ParentID":"1"
+      },
+      {
+         "ID":"3",
+         "Key":"btnSaleReport",
+         "Title":"LocalizedString",
+         "Type":"Report",
+         "ParentID":"null"
+      }
+   ]
+}
+```
 ## Action
 For example an action metadata for update a user will be like below, it says to front-end: we need a form with one submit button and 6 input, 2 string type input in first row, one date and one checkbox in the second row and  last row will have a select and drop down input type.
 ```json
@@ -195,9 +222,9 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgzNzc4NDIsLTE5Mzk5MzkzMiw2ND
-UxNzkyNTMsMTg3NDkwODY4NiwtMTQxNjcwNjMzNiw3MDM3NTA5
-NDYsMTU0NDkxNTIzMiw0MzMzNTM3MDUsMzMyMjg3MjAsLTM4Mz
-k1OTUyNiwtMTc1NTkxNjIyMiwtMjAyNDM3NjQ0MiwxMTg1NDc2
-MjY1LDMxNTQyMDExMiwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTUwODQyMTk3MywtMTkzOTkzOTMyLDY0NT
+E3OTI1MywxODc0OTA4Njg2LC0xNDE2NzA2MzM2LDcwMzc1MDk0
+NiwxNTQ0OTE1MjMyLDQzMzM1MzcwNSwzMzIyODcyMCwtMzgzOT
+U5NTI2LC0xNzU1OTE2MjIyLC0yMDI0Mzc2NDQyLDExODU0NzYy
+NjUsMzE1NDIwMTEyLC0zMzI0NTUzNjNdfQ==
 -->
