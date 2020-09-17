@@ -67,7 +67,10 @@ A simple menu metadata shown below that we have two nodes in root of menu and on
 ## Action  Metadata
 For example an action metadata for update a user will be like below, it says to front-end: we need a form with one submit button and 6 input, 2 string type input in first row, one date and one checkbox in the second row and  last row will have a select and drop down input type.
 ```json
-{
+{  
+   "properties":{
+      "ProcName":"UserUpdate"
+   },
    "parameters":[
       {
          "ID":"FirstName",
